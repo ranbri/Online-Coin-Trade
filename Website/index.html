@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Online Coin Trade</title>
+    <link href="https://fonts.googleapis.com/css?family=Patua+One&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" type="image/png" href="Assets/Images/coin-favicon.jpg">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!-- jQuery CDN Script -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <!-- Bootstrap Script -->
+    <script src="Assets/js/bootstrap.js"></script>
+    <!-- Bootstrap CSS Link -->
+    <link rel="stylesheet" href="Assets/css/bootstrap.css">
+
+    <!-- FusionCharts -->
+    <script type="text/javascript" src="http://cdn.fusioncharts.com/fusioncharts/latest/fusioncharts.js"></script>
+    <!-- jQuery-FusionCharts -->
+    <script type="text/javascript"
+        src="https://rawgit.com/fusioncharts/fusioncharts-jquery-plugin/develop/dist/fusioncharts.jqueryplugin.min.js"></script>
+    <!-- Fusion Theme -->
+    <script type="text/javascript"
+        src="http://cdn.fusioncharts.com/fusioncharts/latest/themes/fusioncharts.theme.fusion.js"></script>
+    <!-- Main Script -->
+    <script src="Assets/js/main.js"></script>
+    <!-- Styles CSS Link -->
+    <link rel="stylesheet" href="Assets/css/styles.css">
+</head>
+
+<body>
+    <div class="overflow">
+        <!-- Modal -->
+        <button type="button" class="" id="modal" data-toggle="modal" data-target="#exampleModal" hidden></button>
+        <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+            aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel">Coin Selection Editor</h5>
+                        <button type="button" class="close emptyModal" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary btn-clear emptyModal"
+                            data-dismiss="modal">Close</button>
+                        <button type="button" class="btn   save ctrl-standard typ-subhed fx-bubbleDown">Save
+                            changes</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Header -->
+        <header class="header row ">
+            <div class="logo-box  col-md-8"><a href="#default" class="logo">BIT|TER</a></div>
+            
+
+        </header>
+
+        <!-- page navigation -->
+        <div class=" row ">
+            <div class="col-sm-4 col-md-4 col-lg-3 ">
+                <ul class="pagination ">
+                    <li class="page-item " aria-current="page"><a href="#"
+                            class=" page-link active currencies text-white ">Currencies</a>
+                    </li>
+                    <li class="page-item"><a class="page-link reports" href="#">Live Reports</a></li>
+                    <li class="page-item"><a class="page-link about" href="#">About</a></li>
+                </ul>
+            </div>
+
+            <!-- Search -->
+            <div class="page-src col-sm-4 col-md-6 col-sm-12 ">
+                <input type="text" class="input-search" placeholder="Search Currencies" autofocus>
+                <a href="#" class="btn btn-secondary">clear</a>
+            </div>
+        </div>
+        <hr>
+
+        <!-- loading -->
+        <p id="loading"></p>
+
+        <!-- coins -->
+        <div class="container col-12 row justify-content-center coins " id="currencies">
+
+        </div>
+
+        <!-- reports -->
+        <div class="container-fluid chart" id="chartContainer">
+            <div id="chart-container"></div>
+        </div>
+
+
+
+        <!-- about -->
+        <div class="container-fluid row" id="about">
+            <div class="bd-example">
+                <div>
+                    <h1>Ran Bar Ilan</h1>
+                    <h4>Fullstack Developer</h4>
+                    <hr>
+                    <img src="../Website/Assets/Images/Me.jpg" alt="My Picture" width="250" height="250">
+                    <br><br><br>
+                    <p> This website is designed to give you realtime information <br>
+                        on the online crypto currencies
+                        and let you make fair trade with them.</p>
+
+                </div>
+                <div class="about-info">
+                    <address>
+                        <strong>RBI, Inc.</strong><br>
+                        13 Shkedia St,<br>
+                        Ramat - Gan , Israel <br>
+                        <abbr title="Phone">P:</abbr> 054-666-5046
+                    </address>
+
+                    <address>
+                        <strong>Ran Bar Ilan</strong><br>
+                        <a href="mailto:rawown@gmail.com">rawown@gmail.com</a>
+                    </address>
+                </div>
+            </div>
+            <a href="https://www.linkedin.com/ranbarilan" class="fa fa-linkedin"></a>
+            <a href="https:https://www.google.com/ranbarilan" class="fa fa-google"></a>
+            <a href="https://twitter.com/RBI1997" class="fa fa-twitter"></a>
+            <a href="https://www.facebook.com/ranbarilan" class="fa fa-facebook"></a>
+            <a href="https://www.instagram.com/ranbarilan/" class="fa fa-instagram"></a>
+            <a href="https://github.com/ranbri?tab=repositories" class="fa fa-github"></a>
+            <br><br>
+            <strong>Please do not make any iligal use of the currencies.</strong>
+        </div>
+    </div>
+</body>
+
+</html>
