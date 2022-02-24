@@ -386,7 +386,10 @@
 
       function addCoinToChart() {
         if (chartArr.length === 0) {
-          $('#chartContainer').html('<h1 class="text-center" >Realtime Coin Value Graph</h1><h2 class="text-center">Please Choose Coins To Display Graph</h2>')
+          $('#chartContainer').html(`
+          <h1 class="text-center text-dark" >Realtime Coin Value Graph</h1>
+          <h2 class="text-center text-secondary">Please Choose Coins To Display Graph</h2>
+          <h3 class="text-center text-warning">(in the currencies tab)</h3>`)
           return;
         } else {
           $('#chartContainer').html(`
@@ -425,8 +428,7 @@
 
 
     $(".logo").click(() => {
-      alert(`JavaScript makes me want to flip the table and say "Fuck this shit",
-             but i can never be sure what "this" refers to.`)
+      alert(`Cha Ching`)
     })
 
     $(".emptyModal").click(() => {
