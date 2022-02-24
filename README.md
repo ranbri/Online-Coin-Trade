@@ -28,7 +28,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[Product-Screenshots](https://github.com/ranbri/Online-Coin-Trade/Gallery)
+[Product-Screenshots](https://github.com/ranbri/Online-Coin-Trade/tree/master/Gallery)
 
 The best tool for your online crypto trading!
 
