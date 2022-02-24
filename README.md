@@ -9,19 +9,17 @@
   <br>
   <small><a href="https://iconscout.com/icons/coin" target="_blank">Coin Icon</a> by <a href="https://iconscout.com/contributors/ravindra-kalkani" target="_blank">Ravindra Kalkani</a></small>
 <br>
-  <h3 align="center">Dizzy Bank.</h3>
+  <h3 align="center">BIT|ER.</h3>
 
   <p align="center">
-    The bank that don't steal.
+    A crypto dude's best friend.
     <br />
     <a href="https://github.com/ranbri/Dizzy-Bank/blob/main/OVERVIEW.md"><strong>Project Overview »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/ranbri/Dizzy-Bank/tree/main/photos">View Demo</a>
+    <a href="https://github.com/ranbri/Online-Coin-Trade/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ranbri/Dizzy-Bank/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/ranbri/Dizzy-Bank/pulls">Request Feature</a>
+    <a href="https://github.com/ranbri/Online-Coin-Trade/pulls">Request Feature</a>
   </p>
 </div>
 
@@ -56,16 +54,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[Product-Screenshots](https://github.com/ranbri/Dizzy-Bank/tree/main/photos)
+[Product-Screenshots](https://github.com/ranbri/Online-Coin-Trade/Gallery)
 
-We at Dizzy Bank inc. do out best to make banking available to everyone!
+The best tool for your online crypto trading!
 
-Our Goals:
-* Simplify banking to people of all backgrounds.
-* Minimize interest rates and hidden bank fees.
-* Make our customers: :smile:
-
-With that in mind we made this bank on the ideas given from our founder & CEO Ran Bar Ilan to help others and bring people together.
+what can it do?:
+* Display specified coin information for 3 different "gold" currencies.
+* See realtime graph on coin value for up to 5 coins.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -75,11 +70,8 @@ With that in mind we made this bank on the ideas given from our founder & CEO Ra
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [Angular 13](https://angular.io/)
+* [jQuery](https://jquery.com/)
 * [Bootstrap 5.1](https://getbootstrap.com)
-* [Node.js](https://nodejs.dev/)
-* [Json Web Token](https://jwt.io/introduction)
-* [MongoDB](https://www.mongodb.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -92,71 +84,12 @@ Instruction on how to install Dizzy in your computer:
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install 
-  ```
+    Use a preview server to launch the index.html in a browser.
 
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-2. Enter "client" folder
-  ```sh
-  cd client
-  ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter "server" folder
-  ```sh
-  cd server
-  ```
-5. Install NPM packages
-   ```sh
-   npm install
-   ```
    
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-### Starting the App
-
-1. Open terminal
-   ```sh
-   new terminal
-   ```
-3. Go to "client" folder
-   ```sh
-   cd client
-   ```
-3. Start Angular app
-  ```sh
-  ng serve
-  ```
-4. open localhost in ur browser
-   ```sh
-   http://localhost:4200/
-   ```
-5. Open a new terminal
-  ```sh
-   new terminal
-   ```
-6. Go to "server" folder
-  ```sh
-  cd server
-  ```
-7. Start node server.
-   ```sh
-   node app.js
-   ```
    
-   
-#### where is MongoDB?
-###### it's running already thanks to MongoDB free cluster that is connected in server/bll/ logics files!
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -182,22 +115,7 @@ Don't forget to give the project a star! Thanks again!
 Ran Bar Ilan - [@Linked-in](https://www.linkedin.com/in/ran-bar-ilan/) - LinkedIn
 [@Facebook](https://www.facebook.com/ranbarilan) - Facebook
 
-Project Link: [https://github.com/ranbri/Dizzy-Bank](https://github.com/ranbri/Dizzy-Bank)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Components.ai Theme Generator](https://components.ai/theme/RGB-linear)
-* [Coolors.co color generator](https://coolors.co/)
-* [Netlify spinner library](https://netlify.app/)
-* [Charts.JS](https://www.chartjs.org/)
-* [Font Awesome](https://fontawesome.com)
+Project Link: [https://github.com/ranbri/Online-Coin-Trade](https://github.com/ranbri/Online-Coin-Trade)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
