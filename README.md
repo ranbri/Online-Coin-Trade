@@ -14,7 +14,7 @@
   <p align="center">
     A crypto dude's best friend.
     <br />
-    <a href="https://github.com/ranbri/Dizzy-Bank/blob/main/OVERVIEW.md"><strong>Project Overview »</strong></a>
+    <a href="https://github.com/ranbri/Online-Coin-Trade/blob/master/OVERVIEW.md"><strong>Project Overview »</strong></a>
     <br />
     <br />
     <a href="https://github.com/ranbri/Online-Coin-Trade/issues">Report Bug</a>
