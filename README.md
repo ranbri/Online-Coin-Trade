@@ -6,6 +6,7 @@
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="https://cdn.iconscout.com/icon/free/png-256/coin-781-1093492.png" alt="Logo" width="80" height="80">
   </a>
+  <br>
   <small><a href="https://iconscout.com/icons/coin" target="_blank">Coin Icon</a> by <a href="https://iconscout.com/contributors/ravindra-kalkani" target="_blank">Ravindra Kalkani</a></small>
 <br>
   <h3 align="center">Dizzy Bank.</h3>
