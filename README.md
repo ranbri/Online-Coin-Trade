@@ -90,7 +90,7 @@ Don't forget to give the project a star! Thanks again!
 ## Contact
 
 Ran Bar Ilan - [@Linked-in](https://www.linkedin.com/in/ran-bar-ilan/) - LinkedIn
-[@Facebook](https://www.facebook.com/ranbarilan) - Facebook
+| [@Facebook](https://www.facebook.com/ranbarilan) - Facebook | Email - rawown@gmail.com
 
 Project Link: [https://github.com/ranbri/Online-Coin-Trade](https://github.com/ranbri/Online-Coin-Trade)
 
